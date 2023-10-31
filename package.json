@@ -39,7 +39,7 @@
     "expo-module-scripts": "^3.0.0"
   },
   "dependencies": {
-    "expo-firebase-core": "git@github.com:heapow/expo-firebase-core.git"
+    "expo-firebase-core": "github:heapow/expo-firebase-core.git"
   },
   "peerDependencies": {
     "expo": "*"
